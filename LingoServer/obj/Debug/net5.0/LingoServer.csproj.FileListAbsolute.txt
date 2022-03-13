@@ -1,0 +1,16 @@
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.csproj.AssemblyReference.cache
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.AssemblyInfoInputs.cache
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.AssemblyInfo.cs
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.csproj.CoreCompileInputs.cache
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\bin\Debug\net5.0\LingoServer.exe
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\bin\Debug\net5.0\LingoServer.deps.json
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\bin\Debug\net5.0\LingoServer.runtimeconfig.json
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\bin\Debug\net5.0\LingoServer.runtimeconfig.dev.json
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\bin\Debug\net5.0\LingoServer.dll
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\bin\Debug\net5.0\ref\LingoServer.dll
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\bin\Debug\net5.0\LingoServer.pdb
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.dll
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\ref\LingoServer.dll
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.pdb
+C:\Users\k_wil\source\repos\LingoServer\LingoServer\obj\Debug\net5.0\LingoServer.genruntimeconfig.cache
